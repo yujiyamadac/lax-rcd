@@ -1,0 +1,5 @@
+# TEST CONFIGURATION BEGIN
+# FileStream(filename='elec.csv', target_idx=-1, n_targets=1, cat_features=None)
+# EvaluatePrequential(batch_size=24, data_points_for_classification=False, max_samples=500000, max_time=inf, metrics=['accuracy', 'running_time', 'model_size'], n_wait=1, output_file='elec_LAX-T_size.csv', pretrain_size=0, restart_stream=True, show_plot=False)
+# TEST CONFIGURATION END
+id,mean_acc_[LAX-T],current_acc_[LAX-T],training_time_[LAX-T],testing_time_[LAX-T],total_running_time_[LAX-T],model_size_[LAX-T]
